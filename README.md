@@ -18,9 +18,13 @@
 ## Связаться со мной
 [<img src="https://github.com/SergeyBoRss/SergeyBoRss/assets/66353172/4fe8c398-63f2-494e-9fb9-cde6b04cc8bf" width="48" height="48"/>](https://t.me/sergeyborss)
 
-## Моя статистика
+<details>
+<summary>
+<h2>Моя статистика</h2>
+</summary>
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeyBoRss&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergeyBoRss&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergeyBoRss&theme=github_dark" alt=""/>
 </div>
+</details>
